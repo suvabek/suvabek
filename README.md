@@ -4,9 +4,7 @@
 
 
 <h1 align="center">Привет, я Кайратбек! 👋</h1>
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Kairatbek.Kairatbek" alt="Profile views" />
-</p>
+
 
 <p align="center">
   <a href="https://t.me/suva_ccc">
