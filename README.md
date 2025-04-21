@@ -1,16 +1,54 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://gifdb.com/images/high/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif" alt="Pixel Art Super Mario за компьютером" />
+</p>
 
-<!--
-**suvabek/suvabek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Привет, я Кайратбек! 👋</h1>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Kairatbek.Kairatbek" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://t.me/suva_ccc">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+
+## 👨‍💻 Обо мне
+
+Меня зовут **Кайратбек**, я начинающий **фронтенд-разработчик**, студент **3 курса РТУ МИРЭА** на направлении **фуллстек-разработка**.  
+Программированием изучаю около **3 лет**, и моим первым языком была **Julia**, также изучал Python, написал MVP книжный интернет-магазин на PHP в рамках курсового проекта, и C#.  
+Сейчас активно прокачиваю **фронтенд**, постепенно осваиваю **бэкенд**, чтобы стать настоящим **фулл-стек разработчиком**.
+
+---
+
+## 🌟 Проекты
+
+- 📚 **Интернет-магазин по продаже бумажных книг**  
+  Небольшой онлайн-магазин с каталогом и корзиной.
+
+- 🎮 **Визуальная новелла про первый день студента**  
+  Игра, помогающая будущим студентам погрузиться в атмосферу вуза через интересный сюжет.
+
+---
+
+## 🧰 Мой стек технологий
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+</p>
+
+---
+
